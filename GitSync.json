@@ -5,7 +5,8 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {
-            "Risky_Sign-In_Response": "test"
+            "Risky_Sign-In_Response": "test",
+            "Auto close of email exceed": "test"
         },
         "Connector": {},
         "Job": {}
