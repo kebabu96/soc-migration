@@ -5,4 +5,5 @@
 |Google SecOps Enrichment|Content Hub Playbooks|This block retrieves relevant details about users and assets involved in the case, enhancing the context available for analysis and subsequent actions within Google SecOps SOAR.|
 |High Risk Users Check|Content Hub Playbooks|This block checks Google GTI sourced alerts against a SOAR custom list to find matches of targeted Industries.|
 |Auto close of email exceed|Default|An embedded workflow that can receive inputs and return an output.|
+|Chronicle_Alerts _Mail|Default||
 |Risky_Sign-In_Response|Default|Automated investigation and response for risky authentication attempts|

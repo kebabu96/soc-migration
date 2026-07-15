@@ -6,7 +6,8 @@
         "Visual Family": {},
         "Playbook": {
             "Risky_Sign-In_Response": "test",
-            "Auto close of email exceed": "test"
+            "Auto close of email exceed": "test",
+            "Chronicle_Alerts _Mail": "test"
         },
         "Connector": {},
         "Job": {}
