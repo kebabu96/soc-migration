@@ -1,0 +1,16 @@
+{
+    "system_version": "6.3.92.0",
+    "readme_addons": {
+        "Integration": {},
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {
+            "Risky_Sign-In_Response": "test"
+        },
+        "Connector": {},
+        "Job": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    }
+}
